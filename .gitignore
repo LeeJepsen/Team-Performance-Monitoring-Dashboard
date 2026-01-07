@@ -1,0 +1,13 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# renv
+renv/library/
+renv/python/
+renv/staging/
+
+# OS
+.DS_Store
+Thumbs.db
