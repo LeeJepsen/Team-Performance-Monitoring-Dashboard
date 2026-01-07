@@ -18,7 +18,7 @@ Purpose of the example data is to demonstrate data flow, visualization, and dash
 
 ## Functionality & Features
 
-This repository contains: The code to run the app in R, dataset, and screenshots can be found in subsequent folders. More information on how to run the app can be found in the "How-To" Folder. 
+This repository contains:  The code to run the app in R, dataset, and screenshots, which can be found in subsequent folders. More information on how to run the app can be found in the "How To" Folder. 
 
 <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/f4485dec-2c86-4046-ad8c-160c154146c7" />
 
